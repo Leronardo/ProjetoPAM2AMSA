@@ -1,0 +1,12 @@
+E:\DS CARLA\prjNadador\prjNadador\bin\Debug\prjNadador.exe.config
+E:\DS CARLA\prjNadador\prjNadador\bin\Debug\prjNadador.exe
+E:\DS CARLA\prjNadador\prjNadador\bin\Debug\prjNadador.pdb
+E:\DS CARLA\prjNadador\prjNadador\obj\Debug\prjNadador.csprojResolveAssemblyReference.cache
+E:\DS CARLA\prjNadador\prjNadador\obj\Debug\prjNadador.frmNadador.resources
+E:\DS CARLA\prjNadador\prjNadador\obj\Debug\prjNadador.Properties.Resources.resources
+E:\DS CARLA\prjNadador\prjNadador\obj\Debug\prjNadador.csproj.GenerateResource.Cache
+E:\DS CARLA\prjNadador\prjNadador\obj\Debug\prjNadador.exe
+E:\DS CARLA\prjNadador\prjNadador\obj\Debug\prjNadador.pdb
+D:\DS CARLA\prjNadador\prjNadador\bin\Debug\prjNadador.exe.config
+D:\DS CARLA\prjNadador\prjNadador\obj\Debug\prjNadador.exe
+D:\DS CARLA\prjNadador\prjNadador\obj\Debug\prjNadador.pdb
